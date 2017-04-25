@@ -1,0 +1,117 @@
+hr {
+  width: 1200px;
+  position: relative;
+  top: 200px;
+}
+
+h1 {
+  line-height: 1.5625;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  font-family: 'Roboto', sans-serif;
+
+}
+.cuerpo-pagina {
+  bottom: 100px;
+  position: relative;
+  margin-left: 870px;
+  width: 540px;
+}
+
+p {
+  line-height: 1.5625;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  font-size: 14px;
+  font-family: 'Droid Sans', sans-serif;
+  color: #000;
+}
+
+h4 {
+  font-weight: bold;
+  line-height: 1.5625;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  width: 800px;
+  height: 32px;
+  margin: 0px;
+}
+#logo {
+  position: relative;
+  display: inline-block;
+  left: 800px;
+}
+#em {
+  margin-bottom: 25px;
+}
+#pagina{
+  position: relative;
+  width: 1440px;
+  bottom: 300px;
+}
+
+#frase-camara {
+  position: relative;
+  display: inline-block;
+  top: 1300px;
+  right: 300px;
+  width: 450px;
+  height: 450px;
+
+}
+#camaras {
+  position: relative;
+  display: inline-block;
+  width: 450px;
+  height: 450px;
+  top: 700px;
+  left: 154px;
+}
+
+#centro-pagina {
+  margin: 30px;
+  position: relative;
+  bottom: 100px;
+  left: 350px;
+}
+#trujillo {
+  position: relative;
+  left: 6px;
+  width: 454.17px;
+  height: 480.17px;
+}
+#selva {
+  width: 681.25px;
+  height: 480.17px;
+}
+#cajamarca {
+  position: relative;
+  left: 2px;
+  bottom: 7px;
+  width: 681.25px;
+  height: 720.25px;
+}
+#cusco {
+  position: relative;
+  bottom: 7px;
+  left: 6px;
+  width: 454.17px;
+  height: 480.17px;
+}
+#centro {
+  position: absolute;
+  bottom: 491px;
+  left: 6px;
+  width: 454.17px;
+  height: 237.59px;
+  margin: 0px;
+}
+#texto-centro {
+  text-align: right;
+  font-style: italic;
+  width: 240px;
+  height: 50px;
+  margin: 0px;
+  padding-top: 93.795px;
+  padding-left: 40px;
+}
